@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sahana/driver_ws/install/yahboomcar_description/lib/python3.12/site-packages",
+        "/home/sahana/driver_ws/install/yahboomcar_bringup/lib/python3.12/site-packages",
+        "/home/sahana/lexi_ws/install/joystick_node/lib/python3.12/site-packages",
+        "/home/sahana/edubot_jaz/install/edubot_teleop_twist_keyboard/lib/python3.12/site-packages",
+        "/home/sahana/edubot_sim/install/edubot_teleop_twist_keyboard/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sahana/driver_ws/install/yahboomcar_description/lib/python3.12/site-packages",
+        "/home/sahana/driver_ws/install/yahboomcar_bringup/lib/python3.12/site-packages",
+        "/home/sahana/lexi_ws/install/joystick_node/lib/python3.12/site-packages",
+        "/home/sahana/edubot_jaz/install/edubot_teleop_twist_keyboard/lib/python3.12/site-packages",
+        "/home/sahana/edubot_sim/install/edubot_teleop_twist_keyboard/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
